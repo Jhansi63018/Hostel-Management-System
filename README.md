@@ -69,6 +69,5 @@ The system is designed to manage hostel operations digitally, reduce manual work
 
    `http://localhost/HostelMessSystem/`
 
-## Author
 
-Your Name
+
