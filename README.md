@@ -1,6 +1,6 @@
-# Hostel & Mess Logistics System
+# Hostel Management System 
 
-A web-based Hostel & Mess Logistics System developed to simplify hostel operations and improve student services.
+A web-based Hostel Management System developed to simplify hostel operations and improve student services.
 
 ## Features
 
